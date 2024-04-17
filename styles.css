@@ -30,8 +30,8 @@ body{
 }
 .display input{
     font-size: 24px;
-    border: 0;
-    outline: 0;
+    border: none;
+    outline: none;
 }
 .display img{
     width: 30px;
@@ -52,9 +52,9 @@ body{
     font-size: 22px;
     font-weight: 300;
     padding: 16px 26px;
-    border: 0;
+    border: none;
     border-radius: 5px;
-    outline: 0;
+    outline: none;
     background: #019f55;
     cursor: pointer;
 }
